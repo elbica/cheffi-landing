@@ -47,6 +47,9 @@ module.exports = {
         citrus: {
           100: "#ffe839",
         },
+        light: {
+          100: "#f5f3e8",
+        },
         tableGray: {
           100: "#b1a396",
         },

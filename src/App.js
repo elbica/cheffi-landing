@@ -15,7 +15,7 @@ function App() {
     AOS.init({
       once: false,
       mirror: true,
-      disable: "phone",
+      disable: false,
       duration: 700,
       easing: "ease-out-cubic",
     });

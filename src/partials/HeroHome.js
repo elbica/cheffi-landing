@@ -43,7 +43,7 @@ function HeroHome() {
           {/* Section header */}
           <div className="text-center pb-12 md:pb-16">
             <h1
-              className="text-5xl md:text-6xl text-gray-600 font-extrabold leading-tighter tracking-tighter mb-4"
+              className="text-4xl md:text-5xl text-gray-600 font-extrabold leading-tighter tracking-tighter mb-4"
               data-aos="zoom-y-out"
             >
               요리는 이제
@@ -54,11 +54,12 @@ function HeroHome() {
             </h1>
             <div className="max-w-3xl mx-auto">
               <p
-                className="text-xl text-gray-600 mb-8"
+                className="text-base  md:text-lg text-gray-600 mb-8"
                 data-aos="zoom-y-out"
                 data-aos-delay="150"
               >
-                그동안 레시피를 찾는 일이 번거롭지 않으셨나요? <br />
+                그동안 레시피를 찾는 일이 번거롭지 않으셨나요?
+                <br />
                 내가 가진 재료로 좋아하는 레시피를 추천 받아 보세요 🎉
               </p>
               <div
@@ -69,7 +70,7 @@ function HeroHome() {
                 <div>
                   <a
                     className="btn text-white bg-carrot-100 hover:bg-carrot-200 w-full mb-4 sm:w-auto sm:mb-0"
-                    href="#0"
+                    href="#"
                   >
                     Start free trial
                   </a>
@@ -77,7 +78,7 @@ function HeroHome() {
                 <div>
                   <a
                     className="btn text-white bg-vegetable-100 hover:bg-vegetable-200 w-full sm:w-auto sm:ml-4"
-                    href="#0"
+                    href="#"
                   >
                     Learn more
                   </a>

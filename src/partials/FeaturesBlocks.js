@@ -14,17 +14,20 @@ function FeaturesBlocks() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4 text-ivory-200">
+            <h2 className="h2 md:h2 mb-4 text-ivory-200">
               혹시 이런 점이 불편하다면?
             </h2>
-            <p className="text-xl text-gray-500">
+            <p className="text-lg md:text-xl text-gray-500">
               Cheffi는 이러한 문제점을 해결하는
               <br /> 레시피 추천 서비스 어플입니다! 😆
             </p>
           </div>
 
           {/* Items */}
-          <div className="max-w-sm mx-auto grid gap-6 md:grid-cols-2 lg:grid-cols-3 items-start md:max-w-2xl lg:max-w-none">
+          <div
+            className="max-w-sm mx-auto grid gap-6 md:grid-cols-2 lg:grid-cols-3 items-start md:max-w-2xl lg:max-w-none"
+            data-aos="fade-right"
+          >
             {/* 1st item */}
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
               <svg
@@ -104,10 +107,11 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-                재료가 유통기한이 지나서 버려야 하네..
+                유통기한이 지나서 버려야 하네 😭
               </h4>
               <p className="text-gray-600 text-center">
-                혹시 냉장고에 있는 재료가 오래돼서 버리는 일이 많나요?
+                혹시 냉장고에 있는 재료가 <br />
+                오래돼서 버리는 일이 많나요?
               </p>
             </div>
 

@@ -30,13 +30,14 @@ function Features() {
       <div className="relative max-w-6xl mx-auto px-4 sm:px-6">
         <div className="pt-12 md:pt-20">
           {/* Section header */}
-          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">Explore the solutions</h1>
-            <p className="text-xl text-gray-600">
-              Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore eu fugiat nulla pariatur excepteur sint occaecat
-              cupidatat.
-            </p>
+          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16 pt-4">
+            <h1 className="h2  text-gray-600">
+              {" "}
+              <span className="bg-clip-text text-transparent bg-gradient-to-r from-carrot-100 to-citrus-100">
+                Cheffi
+              </span>{" "}
+              를 사용해 보세요!
+            </h1>
           </div>
 
           {/* Section content */}
@@ -46,18 +47,10 @@ function Features() {
               className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6 md:mt-6"
               data-aos="fade-right"
             >
-              <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
-                <h3 className="h3 mb-3">Powerful suite of tools</h3>
-                <p className="text-xl text-gray-600">
-                  Duis aute irure dolor in reprehenderit in voluptate velit esse
-                  cillum dolore pariatur. Excepteur sint occaecat cupidatat non
-                  proident, sunt in culpa.
-                </p>
-              </div>
               {/* Tabs buttons */}
               <div className="mb-8 md:mb-0">
                 <a
-                  className={`flex items-center text-lg p-5 rounded border transition duration-300 ease-in-out mb-3 ${
+                  className={`flex items-center  justify-between text-lg p-5 rounded border transition duration-300 ease-in-out mb-3 ${
                     tab !== 1
                       ? "bg-white shadow-md border-gray-200 hover:shadow-lg"
                       : "bg-gray-200 border-transparent"
@@ -69,17 +62,15 @@ function Features() {
                   }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">
-                      Building the Simple ecosystem
-                    </div>
-                    <div className="text-gray-600">
-                      Take collaboration to the next level with security and
-                      administrative features built for teams.
+                    <div className="font-bold leading-snug tracking-tight mb-1 text-gray-600 md:text-2xl md:leading-9">
+                      <span className="text-vegetable-100">추천 레시피</span>와
+                      <span className="text-citrus-100"> 인기 레시피</span>를 한
+                      번에!
                     </div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg
-                      className="w-3 h-3 fill-current"
+                      className="w-3 h-3 fill-current  text-carrot-100"
                       viewBox="0 0 12 12"
                       xmlns="http://www.w3.org/2000/svg"
                     >
@@ -88,7 +79,7 @@ function Features() {
                   </div>
                 </a>
                 <a
-                  className={`flex items-center text-lg p-5 rounded border transition duration-300 ease-in-out mb-3 ${
+                  className={`flex items-center justify-between text-lg p-5 rounded border transition duration-300 ease-in-out mb-3 ${
                     tab !== 2
                       ? "bg-white shadow-md border-gray-200 hover:shadow-lg"
                       : "bg-gray-200 border-transparent"
@@ -100,17 +91,18 @@ function Features() {
                   }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">
-                      Building the Simple ecosystem
-                    </div>
-                    <div className="text-gray-600">
-                      Take collaboration to the next level with security and
-                      administrative features built for teams.
+                    <div className="font-bold tracking-tight mb-1 ">
+                      <p className="leading-7 md:text-2xl md:leading-9 text-gray-600 ">
+                        <span className="text-carrot-100">내가 가진 재료</span>
+                        로 레시피를{" "}
+                        <span className="text-citrus-100">추천</span> 받아
+                        보세요!
+                      </p>
                     </div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg
-                      className="w-3 h-3 fill-current"
+                      className="w-3 h-3 fill-current  text-carrot-100"
                       viewBox="0 0 12 12"
                       xmlns="http://www.w3.org/2000/svg"
                     >
@@ -122,7 +114,7 @@ function Features() {
                   </div>
                 </a>
                 <a
-                  className={`flex items-center text-lg p-5 rounded border transition duration-300 ease-in-out mb-3 ${
+                  className={`flex items-center justify-between text-lg p-5 rounded border transition duration-300 ease-in-out mb-3 ${
                     tab !== 3
                       ? "bg-white shadow-md border-gray-200 hover:shadow-lg"
                       : "bg-gray-200 border-transparent"
@@ -134,23 +126,20 @@ function Features() {
                   }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">
-                      Building the Simple ecosystem
-                    </div>
-                    <div className="text-gray-600">
-                      Take collaboration to the next level with security and
-                      administrative features built for teams.
+                    <div className="font-bold leading-7 tracking-tight mb-1 text-gray-600 md:text-2xl md:leading-9 text-center">
+                      <span className="text-carrot-100">내가 가진 재료</span>를
+                      한 번에 <span className="text-vegetable-100">관리</span>해
+                      보세요!
                     </div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg
-                      className="w-3 h-3 fill-current"
+                      className="w-3 h-3 fill-current  text-carrot-100"
                       viewBox="0 0 12 12"
                       xmlns="http://www.w3.org/2000/svg"
                     >
                       <path
                         d="M11.334 8.06a.5.5 0 00-.421-.237 6.023 6.023 0 01-5.905-6c0-.41.042-.82.125-1.221a.5.5 0 00-.614-.586 6 6 0 106.832 8.529.5.5 0 00-.017-.485z"
-                        fill="#191919"
                         fillRule="nonzero"
                       />
                     </svg>
@@ -161,7 +150,7 @@ function Features() {
 
             {/* Tabs items */}
             <div
-              className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1"
+              className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-4 lg:col-span-4 mb-8 md:mb-0 md:order-1"
               data-aos="zoom-y-out"
               ref={tabs}
             >
@@ -181,18 +170,10 @@ function Features() {
                   <div className="relative inline-flex flex-col">
                     <img
                       className="md:max-w-none mx-auto rounded"
-                      src={require("../images/features-bg.png").default}
-                      width="500"
-                      height="462"
+                      src={require("../images/home.png").default}
+                      width="300"
+                      height="300"
                       alt="Features bg"
-                    />
-                    <img
-                      className="md:max-w-none absolute w-full left-0 transform animate-float"
-                      src={require("../images/features-element.png").default}
-                      width="500"
-                      height="44"
-                      alt="Element"
-                      style={{ top: "30%" }}
                     />
                   </div>
                 </Transition>
@@ -211,18 +192,10 @@ function Features() {
                   <div className="relative inline-flex flex-col">
                     <img
                       className="md:max-w-none mx-auto rounded"
-                      src={require("../images/features-bg.png").default}
-                      width="500"
-                      height="462"
+                      src={require("../images/recipes.png").default}
+                      width="300"
+                      height="300"
                       alt="Features bg"
-                    />
-                    <img
-                      className="md:max-w-none absolute w-full left-0 transform animate-float"
-                      src={require("../images/features-element.png").default}
-                      width="500"
-                      height="44"
-                      alt="Element"
-                      style={{ top: "30%" }}
                     />
                   </div>
                 </Transition>
@@ -241,18 +214,10 @@ function Features() {
                   <div className="relative inline-flex flex-col">
                     <img
                       className="md:max-w-none mx-auto rounded"
-                      src={require("../images/features-bg.png").default}
-                      width="500"
-                      height="462"
+                      src={require("../images/refriger.png").default}
+                      width="300"
+                      height="300"
                       alt="Features bg"
-                    />
-                    <img
-                      className="md:max-w-none absolute w-full left-0 transform animate-float"
-                      src={require("../images/features-element.png").default}
-                      width="500"
-                      height="44"
-                      alt="Element"
-                      style={{ top: "30%" }}
                     />
                   </div>
                 </Transition>
