@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/cheffi-landing/static/css/main.d57fc15d.chunk.css",
-    "main.js": "/cheffi-landing/static/js/main.5486f762.chunk.js",
-    "main.js.map": "/cheffi-landing/static/js/main.5486f762.chunk.js.map",
+    "main.css": "/cheffi-landing/static/css/main.83a83872.chunk.css",
+    "main.js": "/cheffi-landing/static/js/main.ec03afbc.chunk.js",
+    "main.js.map": "/cheffi-landing/static/js/main.ec03afbc.chunk.js.map",
     "runtime-main.js": "/cheffi-landing/static/js/runtime-main.5df91509.js",
     "runtime-main.js.map": "/cheffi-landing/static/js/runtime-main.5df91509.js.map",
-    "static/js/2.a4754c69.chunk.js": "/cheffi-landing/static/js/2.a4754c69.chunk.js",
-    "static/js/2.a4754c69.chunk.js.map": "/cheffi-landing/static/js/2.a4754c69.chunk.js.map",
+    "static/js/2.6fab538b.chunk.js": "/cheffi-landing/static/js/2.6fab538b.chunk.js",
+    "static/js/2.6fab538b.chunk.js.map": "/cheffi-landing/static/js/2.6fab538b.chunk.js.map",
     "index.html": "/cheffi-landing/index.html",
-    "static/css/main.d57fc15d.chunk.css.map": "/cheffi-landing/static/css/main.d57fc15d.chunk.css.map",
-    "static/js/2.a4754c69.chunk.js.LICENSE.txt": "/cheffi-landing/static/js/2.a4754c69.chunk.js.LICENSE.txt",
-    "static/media/features-bg.png": "/cheffi-landing/static/media/features-bg.69c5091d.png",
+    "static/css/main.83a83872.chunk.css.map": "/cheffi-landing/static/css/main.83a83872.chunk.css.map",
+    "static/js/2.6fab538b.chunk.js.LICENSE.txt": "/cheffi-landing/static/js/2.6fab538b.chunk.js.LICENSE.txt",
     "static/media/hero-image.png": "/cheffi-landing/static/media/hero-image.2fb83433.png",
-    "static/media/logo.png": "/cheffi-landing/static/media/logo.013314c8.png"
+    "static/media/home.png": "/cheffi-landing/static/media/home.11e75de2.png",
+    "static/media/logo.png": "/cheffi-landing/static/media/logo.013314c8.png",
+    "static/media/recipes.png": "/cheffi-landing/static/media/recipes.8a1dbf07.png",
+    "static/media/refriger.png": "/cheffi-landing/static/media/refriger.5074a038.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5df91509.js",
-    "static/js/2.a4754c69.chunk.js",
-    "static/css/main.d57fc15d.chunk.css",
-    "static/js/main.5486f762.chunk.js"
+    "static/js/2.6fab538b.chunk.js",
+    "static/css/main.83a83872.chunk.css",
+    "static/js/main.ec03afbc.chunk.js"
   ]
 }
