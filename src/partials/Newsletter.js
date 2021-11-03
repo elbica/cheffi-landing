@@ -98,10 +98,10 @@ function Newsletter() {
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
                 <h3 className="text-2xl md:text-3xl text-gray-500 mb-4 font-bold">
-                  ❗️ Cheffi 서비스에 만족하셨나요?
+                  Cheffi에 만족하셨나요❓
                 </h3>
                 <p className="text-gray-400 text-base md:text-lg mb-6 ">
-                  후기와 피드백은 Cheffi 에게 큰 도움이 됩니다. 약 5분의 설문
+                  후기와 피드백은 Cheffi에게 큰 도움이 됩니다. 약 5분의 설문
                   조사 시간으로 더 발전한 Cheffi를 만나 보세요! 더 나은 서비스를
                   위해 저희 개발팀은 항상 노력하고 있습니다.
                 </p>

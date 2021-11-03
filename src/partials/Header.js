@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
+import CheffiApk from "../images/Cheffi.apk";
 
 function Header() {
   const [top, setTop] = useState(true);
@@ -39,8 +40,9 @@ function Header() {
           <nav className="flex flex-grow">
             <ul className="flex flex-grow justify-end flex-wrap items-center">
               <li>
-                <Link
-                  to="/"
+                <a
+                  href={CheffiApk}
+                  download="Cheffi.apk"
                   className="btn-sm text-gray-200 bg-gray-700 hover:bg-gray-600 ml-3"
                 >
                   <span>Download</span>
@@ -54,7 +56,7 @@ function Header() {
                       fillRule="nonzero"
                     />
                   </svg>
-                </Link>
+                </a>
               </li>
             </ul>
           </nav>

@@ -75,7 +75,7 @@ function Testimonials() {
                 </div>
                 <blockquote className="text-base font-medium mb-4 text-gray-500 sm:text-xl">
                   “ 지금까지 다른 레시피 어플을 쓰면서, 레시피를 찾아도 가지고
-                  있지 않은 재료가 많아 요리 하기 어려웠어요. 하지만 Cheffi 앱은
+                  있지 않은 재료가 많아 요리 하기 어려웠어요. 하지만 Cheffi는
                   내가 가진 재료들로 만들 수 있는 음식을 내 취향에 맞게 추천해
                   줘서 너무 편리하고 좋았어요! “
                 </blockquote>

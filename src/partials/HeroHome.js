@@ -72,13 +72,13 @@ function HeroHome() {
                     className="btn text-white bg-carrot-100 hover:bg-carrot-200 w-full mb-4 sm:w-auto sm:mb-0"
                     href="#"
                   >
-                    Start free trial
+                    Google Play Store
                   </a>
                 </div>
                 <div>
                   <a
                     className="btn text-white bg-vegetable-100 hover:bg-vegetable-200 w-full sm:w-auto sm:ml-4"
-                    href="#"
+                    href="#learn"
                   >
                     Learn more
                   </a>

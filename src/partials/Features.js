@@ -31,7 +31,7 @@ function Features() {
         <div className="pt-12 md:pt-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16 pt-4">
-            <h1 className="h2  text-gray-600">
+            <h1 id="learn" className="h2  text-gray-600">
               {" "}
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-carrot-100 to-citrus-100">
                 Cheffi
