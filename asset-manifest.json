@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cheffi-landing/static/css/main.d0570be5.chunk.css",
-    "main.js": "/cheffi-landing/static/js/main.86f81590.chunk.js",
-    "main.js.map": "/cheffi-landing/static/js/main.86f81590.chunk.js.map",
+    "main.js": "/cheffi-landing/static/js/main.2aaccd25.chunk.js",
+    "main.js.map": "/cheffi-landing/static/js/main.2aaccd25.chunk.js.map",
     "runtime-main.js": "/cheffi-landing/static/js/runtime-main.5df91509.js",
     "runtime-main.js.map": "/cheffi-landing/static/js/runtime-main.5df91509.js.map",
     "static/js/2.033d6732.chunk.js": "/cheffi-landing/static/js/2.033d6732.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.5df91509.js",
     "static/js/2.033d6732.chunk.js",
     "static/css/main.d0570be5.chunk.css",
-    "static/js/main.86f81590.chunk.js"
+    "static/js/main.2aaccd25.chunk.js"
   ]
 }
