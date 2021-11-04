@@ -70,7 +70,7 @@ function HeroHome() {
                 <div>
                   <a
                     className="btn text-white bg-carrot-100 hover:bg-carrot-200 w-full mb-4 sm:w-auto sm:mb-0 sm:text-lg"
-                    href="#"
+                    href="https://play.google.com/store/apps/details?id=com.cheffi_frontend"
                   >
                     Google Play Store
                   </a>

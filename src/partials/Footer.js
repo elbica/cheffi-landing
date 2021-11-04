@@ -55,7 +55,7 @@ function Footer() {
                 </span>
               </li>
             </ul>
-            <p className="text-xs md:text-sm text-gray-400 mt-10 px-5">
+            <p className="text-xs md:text-sm text-gray-400 mt-10 pt-5">
               * Cheffi는 과학기술정보통신부와 정보통신기획평가원이 주관하고
               한국정보산업연합회에서 운영하는 SW마에스트로 12기 연수생
               Cheffi팀이 개발한 서비스입니다.
