@@ -5,7 +5,7 @@ function Footer() {
   return (
     <section className="relative">
       <div
-        className="absolute inset-0 md:mt-24 lg:mt-0 bg-gray-200 pointer-events-none z-0"
+        className="absolute inset-0 lg:mt-0 bg-gray-200 pointer-events-none z-0"
         aria-hidden="true"
       ></div>
       <div className="relative max-w-6xl mx-auto px-4 sm:px-6">

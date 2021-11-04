@@ -93,10 +93,9 @@ function Features() {
                   <div>
                     <div className="font-bold tracking-tight mb-1 ">
                       <p className="leading-7 md:text-2xl md:leading-9 text-gray-600 ">
-                        <span className="text-carrot-100">내가 가진 재료</span>
-                        로 레시피를{" "}
-                        <span className="text-citrus-100">추천</span> 받아
-                        보세요!
+                        <span className="text-carrot-100">가진 재료</span>로
+                        레시피를 <span className="text-citrus-100">추천</span>{" "}
+                        받아 보세요!
                       </p>
                     </div>
                   </div>
@@ -127,8 +126,8 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-7 tracking-tight mb-1 text-gray-600 md:text-2xl md:leading-9 text-center">
-                      <span className="text-carrot-100">내가 가진 재료</span>를
-                      한 번에 <span className="text-vegetable-100">관리</span>해
+                      <span className="text-carrot-100">가진 재료</span>를 한
+                      번에 <span className="text-vegetable-100">관리</span>해
                       보세요!
                     </div>
                   </div>

@@ -69,7 +69,7 @@ function HeroHome() {
               >
                 <div>
                   <a
-                    className="btn text-white bg-carrot-100 hover:bg-carrot-200 w-full mb-4 sm:w-auto sm:mb-0"
+                    className="btn text-white bg-carrot-100 hover:bg-carrot-200 w-full mb-4 sm:w-auto sm:mb-0 sm:text-lg"
                     href="#"
                   >
                     Google Play Store
@@ -77,7 +77,7 @@ function HeroHome() {
                 </div>
                 <div>
                   <a
-                    className="btn text-white bg-vegetable-100 hover:bg-vegetable-200 w-full sm:w-auto sm:ml-4"
+                    className="btn text-white bg-vegetable-100 hover:bg-vegetable-200 w-full sm:w-auto sm:ml-4 sm:text-lg"
                     href="#learn"
                   >
                     Learn more
