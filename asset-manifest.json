@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/cheffi-landing/static/css/main.de9f3b5a.chunk.css",
-    "main.js": "/cheffi-landing/static/js/main.747b69d2.chunk.js",
-    "main.js.map": "/cheffi-landing/static/js/main.747b69d2.chunk.js.map",
+    "main.css": "/cheffi-landing/static/css/main.dd0a1343.chunk.css",
+    "main.js": "/cheffi-landing/static/js/main.4f673454.chunk.js",
+    "main.js.map": "/cheffi-landing/static/js/main.4f673454.chunk.js.map",
     "runtime-main.js": "/cheffi-landing/static/js/runtime-main.5df91509.js",
     "runtime-main.js.map": "/cheffi-landing/static/js/runtime-main.5df91509.js.map",
     "static/js/2.b614cbef.chunk.js": "/cheffi-landing/static/js/2.b614cbef.chunk.js",
     "static/js/2.b614cbef.chunk.js.map": "/cheffi-landing/static/js/2.b614cbef.chunk.js.map",
     "index.html": "/cheffi-landing/index.html",
-    "static/css/main.de9f3b5a.chunk.css.map": "/cheffi-landing/static/css/main.de9f3b5a.chunk.css.map",
+    "static/css/main.dd0a1343.chunk.css.map": "/cheffi-landing/static/css/main.dd0a1343.chunk.css.map",
     "static/js/2.b614cbef.chunk.js.LICENSE.txt": "/cheffi-landing/static/js/2.b614cbef.chunk.js.LICENSE.txt",
     "static/media/Cheffi.9f620a7b.apk": "/cheffi-landing/static/media/Cheffi.9f620a7b.apk",
     "static/media/hero-image.png": "/cheffi-landing/static/media/hero-image.2fb83433.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.5df91509.js",
     "static/js/2.b614cbef.chunk.js",
-    "static/css/main.de9f3b5a.chunk.css",
-    "static/js/main.747b69d2.chunk.js"
+    "static/css/main.dd0a1343.chunk.css",
+    "static/js/main.4f673454.chunk.js"
   ]
 }
