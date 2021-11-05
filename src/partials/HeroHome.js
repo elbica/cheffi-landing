@@ -78,9 +78,9 @@ function HeroHome() {
                 <div>
                   <a
                     className="btn text-white bg-vegetable-100 hover:bg-vegetable-200 w-full sm:w-auto sm:ml-4 sm:text-lg"
-                    href="#learn"
+                    href="https://apps.apple.com/app/id1592825225"
                   >
-                    Learn more
+                    App Store
                   </a>
                 </div>
               </div>
